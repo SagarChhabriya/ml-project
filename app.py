@@ -2,7 +2,7 @@ import streamlit  as st
 import pickle
 
 
-st.title("ML Project")
+st.title("ML Project using Python")
 st.set_page_config(page_title="ML Project", page_icon="✨")
 
 
